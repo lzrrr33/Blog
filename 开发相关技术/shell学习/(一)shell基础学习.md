@@ -73,14 +73,19 @@ $ if [[ 3 > 7 ]]; then
 no
 ```
 也可以用一下比较符
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200902172951998.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2x6cl9wcw==,size_16,color_FFFFFF,t_70#pic_center)
+
 
 2. 字符串比较
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200902173617484.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2x6cl9wcw==,size_16,color_FFFFFF,t_70#pic_center)
 
+
 3. 文件比较
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200902173628596.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2x6cl9wcw==,size_16,color_FFFFFF,t_70#pic_center)
+
 ##### 循环
 1. for循环
 c语言风格
