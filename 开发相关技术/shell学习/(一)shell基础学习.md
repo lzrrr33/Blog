@@ -2,8 +2,8 @@
 # 后端开发技能学习(二) shell基础学习
 ### 环境搭建
 1.linux下可以直接执行shell
-2.windows下需要安装虚拟服务软件，如果你看了上一篇博文(https://editor.csdn.net/md/?articleId=108312144)，那么你可以直接用gitbash来执行shell
-话不多说，先来写个hello world：
+2.windows下需要安装虚拟服务软件，如果你看了上一篇博文(https://blog.csdn.net/lzr_ps/article/details/108312144)
+，那么你可以直接用gitbash来执行shell话不多说，先来写个hello world：
 ```
 $ vi test.sh
 ```
